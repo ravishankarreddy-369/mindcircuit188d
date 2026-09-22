@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>madhuapp</artifactId>
-    <version>2.0.0</version>
+    <artifactId>instaapp</artifactId>
+    <version>10.0.0</version>
     <packaging>war</packaging>
 
 	<properties>
